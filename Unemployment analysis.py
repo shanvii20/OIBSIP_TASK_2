@@ -93,18 +93,3 @@ UA.corr()
 cor= UA.corr()
 fig, ax=plt.subplots(figsize=(8,8))
 sns.heatmap(cor,annot=True,ax=ax)
-
-
-# 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
